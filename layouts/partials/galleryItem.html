@@ -1,0 +1,32 @@
+<div class="grid-item grid-item--width{{ .item.cols }} grid-item--height{{ .item.rows }}">
+     {{ $imagePath := (print "/photos/" .item.image )}}
+     {{ $date := "" }}
+
+     {{ if eq .item.type "video" }}
+          {{ $imagePath = (print "/video-thumbnails/" .item.thumbnail )}}
+          {{ $date = .item.date }}
+     {{ end }}
+
+     {{ $image := resources.Get $imagePath }}
+     {{ $thumb := $image.Process "resize 1328x" }}
+
+     {{ if eq .item.type "photo" }}
+          {{ $date = time.Format "January 2006" $image.Exif.Date }}
+     {{ end }}
+
+     <div class="gallery-item-inner" style="background-image: url('{{ $thumb.RelPermalink }}');"
+          data-gallery-index="{{.index}}">
+          <div class="gallery-item-overlay">
+               <div class="m-5">
+                    <p class="fs-2">{{ .item.title }}</p>
+                    <p class="fs-5">
+                         {{ .item.location }}
+                    </p>
+                    <p class="fs-5">
+                         {{ $date }}
+                    </p>
+               </div>
+          </div>
+     </div>
+
+</div>

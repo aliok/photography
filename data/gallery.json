@@ -1,0 +1,112 @@
+[
+  {
+    "type": "photo",
+    "image": "DJI_0245_touched.jpg",
+    "title": "Plants living in harsh conditions",
+    "location": "Flamingo Observatory, Lake Tuz, Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/oDpGDdpemaigLcxk8",
+    "cols": 3,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0240_touched.jpg",
+    "title": "Salt marshes",
+    "location": "Flamingo Observatory, Lake Tuz, Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/oDpGDdpemaigLcxk8",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0239_touched.jpg",
+    "title": "Salt marshes",
+    "location": "Flamingo Observatory, Lake Tuz, Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/oDpGDdpemaigLcxk8",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0257_touched.jpg",
+    "title": "Mendelbrot-alike patterns in the salt marshes",
+    "location": "Flamingo Observatory, Lake Tuz, Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/oDpGDdpemaigLcxk8",
+    "cols": 3,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0322_touched.jpg",
+    "title": "Dam shores",
+    "location": "Sarimsakli Dam, Kayseri, Turkey",
+    "locationLink": "https://maps.app.goo.gl/8LLTRm5AJ2c5Jqrm8",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_9779_touched.jpg",
+    "title": "Above the clouds",
+    "location": "Mount Erciyes, Kayseri, Turkey",
+    "locationLink": "https://maps.app.goo.gl/R3uFj7vtEw3xm8c48",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_9792_touched.jpg",
+    "title": "Alone in the snow",
+    "location": "Mount Erciyes, Kayseri, Turkey",
+    "locationLink": "https://maps.app.goo.gl/R3uFj7vtEw3xm8c48",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "video",
+    "src": "https://www.youtube.com/watch?v=JIG1oXlhXTQ",
+    "thumbnail": "JIG1oXlhXTQ.png",
+    "title": "Drone footage of random rocks",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/AR9B6jLUFjnSjv889",
+    "date": "January 2024",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_0737_touched.jpg",
+    "title": "Pteridophyta aka Fern",
+    "location": "Omerli, Istanbul, Turkey",
+    "locationLink": "https://maps.app.goo.gl/7Y4AJuxthsXp1gbCA",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_8949_touched.jpg",
+    "title": "Tree body",
+    "location": "Omerli, Istanbul, Turkey",
+    "locationLink": "https://maps.app.goo.gl/7Y4AJuxthsXp1gbCA",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_9487_touched.jpg",
+    "title": "Ruins of Cappadocia",
+    "location": "Goreme, Nevsehir, Turkey",
+    "locationLink": "https://maps.app.goo.gl/eFpne3RhGrZKN4zD9",
+    "cols": 3,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_8964_touched.jpg",
+    "title": "Incirliin cave",
+    "location": "Milas, Mugla, Turkey",
+    "locationLink": "https://maps.app.goo.gl/BguLSZdvvwf4eF5k8",
+    "cols": 2,
+    "rows": 2
+  }
+]

@@ -1,0 +1,43 @@
+---
+type: _default
+layout: single
+---
+
+{{< gallery >}}
+
+<script>
+    $(document).ready(function(){
+        $('.grid').masonry({
+            itemSelector: '.grid-item',
+            columnWidth: '.grid-sizer',
+            percentPosition: true
+        });
+
+        let $galleryItemInner = $('.gallery-item-inner');
+        $galleryItemInner.on('mouseenter', function() {
+            $(this).find('.gallery-item-overlay').addClass('shown');
+        });
+        $galleryItemInner.on('mouseleave', function() {
+            $(this).find('.gallery-item-overlay').removeClass('shown');
+        });
+
+        const $dynamicGallery = document.getElementById("gallery");
+        const dynamicGallery = window.lightGallery($dynamicGallery, {
+            dynamicEl: galleryData,
+            dynamic: true,
+            hash: false,
+            rotate: false,
+            plugins: [
+                lgZoom,
+                lgThumbnail,
+                lgVideo,
+                lgFullscreen,
+            ],
+        });
+        $galleryItemInner.on("click", function(){
+            const index = parseInt($(this).attr("data-gallery-index"), 10);
+            dynamicGallery.openGallery(index);
+        });
+
+    });
+</script>
