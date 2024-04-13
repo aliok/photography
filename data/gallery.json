@@ -1,6 +1,141 @@
 [
   {
     "type": "photo",
+    "image": "IMG_1237_touched.jpg",
+    "title": "Hawks of Anatolia",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/ucEAxkVJjmJK3gSg9",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_1201_touched.jpg",
+    "title": "Sunset",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/Xkk9egoEqSr8F3JBA",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_1162_touched.jpg",
+    "title": "Almost spring near the creek",
+    "location": "Sızır, Sivas, Turkey",
+    "locationLink": "https://maps.app.goo.gl/UBD8cLbSpTsvBBWM8",
+    "cols": 3,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_1094_touched.jpg",
+    "title": "Anatolian ground squirrel",
+    "location": "Hurmetci, Kayseri, Turkey",
+    "locationLink": "https://maps.app.goo.gl/4u3oecQasvqf9XAk6",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_1036_touched.jpg",
+    "title": "Volcanic rocks",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/YhPbi7aF8ygp9cmZA",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_0956_touched.jpg",
+    "title": "Peach blossoms",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/FMugrRBhRAKX8NRJ8",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "IMG_0871_touched.jpg",
+    "title": "Peach blossoms",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/FMugrRBhRAKX8NRJ8",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0612_touched.jpg",
+    "title": "Cliffs and ruins in Aksaray",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/YhPbi7aF8ygp9cmZA",
+    "cols": 3,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0587_touched.jpg",
+    "title": "Sunset",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/FMugrRBhRAKX8NRJ8",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0574_touched.jpg",
+    "title": "Conic ruins",
+    "location": "Poyraz Mountain, Avanos, Turkey",
+    "locationLink": "https://maps.app.goo.gl/g48cSZiHZm1hs8eBA",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0521_touched.jpg",
+    "title": "Flamingos in the most unexpected place",
+    "location": "Hurmetci, Kayseri, Turkey",
+    "locationLink": "https://maps.app.goo.gl/4u3oecQasvqf9XAk6",
+    "cols": 3,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0497_touched.jpg",
+    "title": "Rescued free horses",
+    "location": "Hurmetci, Kayseri, Turkey",
+    "locationLink": "https://maps.app.goo.gl/4u3oecQasvqf9XAk6",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0633_touched.jpg",
+    "title": "Fields in Aksaray",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/FMugrRBhRAKX8NRJ8",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0453_touched.jpg",
+    "title": "Plateau and power of water",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/tM5CLa5KAxEbZd2k9",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "DJI_0450_touched.jpg",
+    "title": "Fields in Aksaray",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/FMugrRBhRAKX8NRJ8",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
     "image": "DJI_0245_touched.jpg",
     "title": "Plants living in harsh conditions",
     "location": "Flamingo Observatory, Lake Tuz, Aksaray, Turkey",
