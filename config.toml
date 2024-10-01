@@ -1,3 +1,4 @@
 baseURL = 'https://gallery.aliok.com.tr'
 languageCode = 'en-us'
 title = 'Ali Ok - Photography'
+timeout=5000
