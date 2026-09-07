@@ -2,6 +2,101 @@
 
   {
     "type": "photo",
+    "image": "B79A6046_t.jpg",
+    "title": "Kite Surfing",
+    "location": "Akyaka, Muğla, Turkey",
+    "locationLink": "https://maps.app.goo.gl/5861MZZaHJ8yuquK8",
+    "cols": 2,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "B79A6224_t.jpg",
+    "title": "Aladağlar",
+    "location": "Çamardı, Niğde, Turkey",
+    "locationLink": "https://maps.app.goo.gl/MkHU17VvawAXD3Lh8",
+    "cols": 2,
+    "rows": 2
+  },
+
+  {
+    "type": "photo",
+    "image": "B79A5893_t.jpg",
+    "title": "Rocky Guardians",
+    "location": "Aksaray, Turkey",
+    "locationLink": "https://maps.app.goo.gl/cxQTbQm7pEoXK77S9",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "B79A5805_t.jpg",
+    "title": "Manhatten Skyline",
+    "location": "New York City, New York, USA",
+    "locationLink": "https://maps.app.goo.gl/yCtiREKrfHbALmcU8",
+    "cols": 3,
+    "rows": 2
+  },
+
+  {
+    "type": "photo",
+    "image": "B79A5584_t.jpg",
+    "title": "Chicago Skyline",
+    "location": "Chicago, Illinois, USA",
+    "locationLink": "https://maps.app.goo.gl/JTgM22p6NpuvzaZUA",
+    "cols": 3,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "B79A5642_t.jpg",
+    "title": "Trash-quirrel",
+    "location": "Denver, Colorado, USA",
+    "locationLink": "https://maps.app.goo.gl/tqRPuRg3XF9tmdJo9",
+    "cols": 1,
+    "rows": 2
+  },
+
+  {
+    "type": "photo",
+    "image": "B79A5494_t.jpg",
+    "title": "Chicago Magnificent Mile",
+    "location": "Chicago, Illinois, USA",
+    "locationLink": "https://maps.app.goo.gl/8ovxWExeNDVV4Dx99",
+    "cols": 1,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "B79A5565_t.jpg",
+    "title": "Frozen Lake Michigan",
+    "location": "Chicago, Illinois, USA",
+    "locationLink": "https://maps.app.goo.gl/JTgM22p6NpuvzaZUA",
+    "cols": 3,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "B79A5484_t.jpg",
+    "title": "SOLOTÜRK",
+    "location": "Sivrihisar, Eskişehir, Turkey",
+    "locationLink": "https://maps.app.goo.gl/Q6WUaqq3oLgTUEtT8",
+    "cols": 3,
+    "rows": 2
+  },
+  {
+    "type": "photo",
+    "image": "B79A0387_t.jpg",
+    "title": "Toros Kertenkelesi",
+    "location": "Gülek, Mersin, Turkey",
+    "locationLink": "https://maps.app.goo.gl/YvcBxvthPQUjiprz8",
+    "cols": 1,
+    "rows": 2
+  },
+
+
+  {
+    "type": "photo",
     "image": "IMG_4540_touched.jpg",
     "title": "Mutual love",
     "location": "Silifke, Mersin, Turkey",
